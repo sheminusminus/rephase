@@ -1,0 +1,19 @@
+{
+  "name": "rephase",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheminusminus/rephase.git"
+  },
+  "author": "Emily Kolar <emkolar@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheminusminus/rephase/issues"
+  },
+  "homepage": "https://github.com/sheminusminus/rephase#readme"
+}
